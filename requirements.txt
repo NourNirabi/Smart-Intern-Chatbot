@@ -1,0 +1,17 @@
+re
+nltk
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+wordcloud
+tika
+bitsandbytes==0.42.0
+peft==0.8.2
+trl==0.7.10
+accelerate==0.27.1
+datasets==2.17.0
+transformers==4.38.0
+torch
+kaggle-secrets
