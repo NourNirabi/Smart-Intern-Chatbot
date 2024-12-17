@@ -26,10 +26,13 @@ The **Smart Intern Chatbot** is an AI-powered language learning application desi
    cd Smart-Intern-Chatbot  
 
 2. Install required libraries:
-  pip install -r requirements.txt  
+   ```bash 
+   pip install -r requirements.txt  
   
-3. Run the application:
-  streamlit run app.py  
+4. Run the application:
+   ```bash 
+   streamlit run app.py
+   
 ## Example Interaction and Results  
 
 ### **Question:**  
