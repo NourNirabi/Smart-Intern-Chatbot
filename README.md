@@ -3,7 +3,7 @@
 ## Project Overview  
 The **Smart Intern Chatbot** is an AI-powered language learning application designed to assist fresh graduates in bridging the gap between academic education and real-world work experience. This chatbot enables users to engage in real-time conversations with an AI agent, helping them create a personalized roadmap for skill enhancement and career growth.  
 
-![System Overview](images/photo_2024-12-21_09-17-07)
+![System Overview](images//photo_2024-12-21_09-17-07.jpg)
 
 
 ## Key Features  
